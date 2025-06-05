@@ -1,4 +1,4 @@
-![image alt]https://github.com/Lucifer1406/OpenCV_Based_Projects-Using-Pyhton/issues/3#issue-2767755392
+![image alt](*https://github.com/Lucifer1406/OpenCV_Based_Projects-Using-Pyhton/issues/3#issue-2767755392)
 
 # Lane Detection with OpenCV
 
