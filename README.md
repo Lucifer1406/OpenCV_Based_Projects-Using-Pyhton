@@ -1,3 +1,5 @@
+![image alt]https://github.com/Lucifer1406/OpenCV_Based_Projects-Using-Pyhton/issues/3#issue-2767755392
+
 # Lane Detection with OpenCV
 
 This project demonstrates lane detection in images and videos using OpenCV. It processes frames to identify and highlight lane lines using techniques like edge detection, Hough transforms, and region masking.
